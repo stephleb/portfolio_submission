@@ -1,0 +1,91 @@
+body {
+  margin: 0;
+  font-family: Arial;
+	background-image:url(images/green_stars.jpg);
+}
+
+header {
+  font-family: Impact, 'Arial Narrow Bold', sans-serif;
+  font-size: 50px;
+	color: #FC30F2;
+  text-align: center;
+  padding: 30px;
+  margin: 25px;
+	height: 80px;
+	background-color: #F6BF20;
+}
+
+footer {
+	background-color: #FC30F2;
+}
+
+article {
+  padding: 30px;
+  margin: 20px;
+  background-color: white;
+}
+
+section {
+  padding: 30px;
+  margin: 40px;
+  background-color: white;
+}
+
+img {
+  width: 100px;
+}
+
+.image-circle {
+    border-radius: 50%; 
+}
+
+h1 {
+  font-family: Impact, 'Arial Narrow Bold', sans-serif;
+  font-size: 45px;
+  color: black;
+}
+
+h2 {
+  font-family: 'Arial Narrow', sans-serif;
+  font-size: 22px;
+  color: black;
+}
+
+h3 {
+  font-family: Impact, 'Arial Narrow Bold', sans-serif;
+  font-size: 35px;
+  color: green;
+}
+
+p {
+ font-family: Arial, sans-serif;
+}
+
+ul{
+    font-family: 'Arial Narrow', sans-serif;
+  font-size: 22px;
+}
+
+ol{
+    font-family: 'Arial Narrow', sans-serif;
+  font-size: 35px;
+}
+
+a {
+	font-weight: 700;
+	text-decoration: none;	
+}
+a:link { color: #3A9369 }
+a:visited { color: #3A9369 }
+a:hover { color: darkslategray }
+a:active { color: darkslategray; }
+a:hover {
+	text-decoration: underline;	
+}
+
+footer p {
+	color: #fff;	
+	text-align: center;
+  padding: 30px;
+  margin: 0;
+}
